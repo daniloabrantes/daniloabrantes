@@ -89,7 +89,11 @@
   <a href="https://github.com/daniloabrantes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniloabrantes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniloabrantes&layout=compact&langs_count=7&theme=midnight-purple"/>
-  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloabrantes&ayout=compact&langs_count=7&theme=midnight-purple" alt="daniloabrantes"/>
+  <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloabrantes&ayout=compact&langs_count=7&theme=midnight-purple" alt="daniloabrantes"/></div>
+
 </div>
-</div>
-  
+
+<div align="center">
+<a href="https://www.youtube.com/watch?v=wLlovxa3VJ0&t" target="_blank"><img src="https://cdnb.artstation.com/p/assets/images/images/001/088/177/large/concept-4-tavern.jpg?1439804839&dl=1" 
+alt="IMAGE ALT TEXT HERE" width="auto" height="180" border="10"/></a>
+</div
