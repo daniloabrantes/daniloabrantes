@@ -51,6 +51,13 @@
         rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40"
             height="40"/></a></p>
 <!--
+
+//test-song
+<div align="center">
+<a href="https://www.youtube.com/watch?v=wLlovxa3VJ0&t" target="_blank"><img src="https://cdnb.artstation.com/p/assets/images/images/001/088/177/large/concept-4-tavern.jpg?1439804839&dl=1" 
+alt="IMAGE ALT TEXT HERE" width="auto" height="180" border="10"/></a>
+</div
+//icons-old
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -92,8 +99,3 @@
   <img height="150em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniloabrantes&ayout=compact&langs_count=7&theme=midnight-purple" alt="daniloabrantes"/></div>
 
 </div>
-
-<div align="center">
-<a href="https://www.youtube.com/watch?v=wLlovxa3VJ0&t" target="_blank"><img src="https://cdnb.artstation.com/p/assets/images/images/001/088/177/large/concept-4-tavern.jpg?1439804839&dl=1" 
-alt="IMAGE ALT TEXT HERE" width="auto" height="180" border="10"/></a>
-</div
