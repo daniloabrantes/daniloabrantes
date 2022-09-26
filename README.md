@@ -1,6 +1,6 @@
 <h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
 <h3 align="center">Welcome to my profile!<h3>
-## Entusiasta da programação; estou estudando progração e prático para me aperfeiçoar e passar o tempo! ##<br>
+## Entusiasta da programação; estou estudando programação e pratico para me aperfeiçoar e passar o tempo! ##<br>
   <p align="center">(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ</p>
 <br><br>
 
