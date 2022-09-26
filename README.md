@@ -1,6 +1,11 @@
 <h1>Sejam bem-vindos ao meu perfil!</h1>
 ## Entusiasta da programação; estou estudando progração e pratico para me aperfeiçoar e passar o tempo! ##<br>
 (⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ
+
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/daniloabrantes/9590ed1702d882b5b7bcaf33ccf85df1/raw/3da40c7e726ce29bc2ee848f762a16a0c840c6ff/githubcard.svg"/>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Danilo Abrantes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloabrantes&color=yellow" alt="Profile views" /> </p>
+
 <div align="center">
   <a href="https://github.com/daniloabrantes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniloabrantes&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
