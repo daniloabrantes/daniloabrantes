@@ -1,7 +1,8 @@
 <h1 align="center">Sejam bem-vindos ao meu perfil!</h1>
 <h3 align="center">Welcome to my profile!<h3>
-## Entusiasta da programação; estou estudando programação e pratico para me aperfeiçoar e passar o tempo! ##<br>
-  <p align="center">(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ</p>
+<p align="center">
+  ## Entusiasta da programação, eis aqui projetos para me aperfeiçoar e passar o tempo! ##<br>
+(⁠っ⁠.⁠❛⁠ ⁠ᴗ⁠ ⁠❛⁠.⁠)⁠っ</p>
 <br><br>
 
 <p align="center">
@@ -97,9 +98,10 @@ alt="IMAGE ALT TEXT HERE" width="auto" height="180" border="10"/></a>
 <div align="center"> 
   <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/danilo-abrantes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:daniloabrantes.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dan._.abrantes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://linktr.ee/daniloabrantes" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/danilo-abrantes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:daniloabrantes.contato@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/dan._.abrantes" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </p>
 </div>
 
