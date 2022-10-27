@@ -7,7 +7,7 @@
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniloabrantes" alt="daniloabrantes"/></a></p>
 <br><br>
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/daniloabrantes/9590ed1702d882b5b7bcaf33ccf85df1/raw/3da40c7e726ce29bc2ee848f762a16a0c840c6ff/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/daniloabrantes/e4bb2129dbb076fbbb16aa6af9bb4d80/raw/c233c07a118672795ff58dbbcef9b2baf36eac44/newgitcard.svg"/>
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Danilo Abrantes</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloabrantes&color=blueviolet" alt="Profile views"/></p>
@@ -20,6 +20,9 @@
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
+
+<a href="https://angular.io/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" /></a>
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
